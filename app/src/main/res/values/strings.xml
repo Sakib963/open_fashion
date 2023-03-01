@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">OpenFashion</string>
+
+    <!--  Sign Up Page Text  -->
+    <string name="sign_up_text">Sign Up</string>
+    <string name="phone_no_hint">Your Phone Number</string>
+    <string name="phone_no_text">Phone no.*</string>
+    <string name="password_text">Password*</string>
+    <string name="password_hint_text">Please give 6 characters long password</string>
+    <string name="retype_password_text">Retype Password*</string>
+
+    <string name="retype_password_hint_text">Retype Your Password</string>
+    <string name="submit_text">Submit</string>
+
+    <!--  Sign Up Information Text  -->
+    <string name="name_text">Name*</string>
+    <string name="name_hint_text">Your Full Name</string>
+    <string name="email_text">Email</string>
+    <string name="email_hint_text">Your Email</string>
+    <string name="date_of_birth_text">Date Of Birth</string>
+    <string name="date_of_birth_hint_text">Your Date Of Birth</string>
+    <string name="gender_text">Gender*</string>
+    <string name="country_text">Country*</string>
+    <string name="country_name_text">Bangladesh</string>
+    <string name="address_text">Address</string>
+    <string name="address_hint_text">Your Current Address</string>
+
+    <!-- Welcome Activity Text -->
+    <string name="welcome_title">Welcome to\nOpen Fashion</string>
+    <string name="welcome_sub_title">Lorem ipsum dolor sit amet, consectetur adipiscing elit purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor.</string>
+    <string name="login_text">Login</string>
+    
+    <!-- Login Activity Text -->
+    <string name="password_input_hint_text">Please Enter Your Password</string>
+    <string name="checkbox_text">Remember Me</string>
+
+    <!--  Main Activity Text  -->
+    <string name="logout_text">Log Out</string>
+    <string name="explore_text">Explore Collection</string>
+    <string name="banner_text">Luxury\n Fashion\n&amp; Accessories</string>
+
+
+</resources>
